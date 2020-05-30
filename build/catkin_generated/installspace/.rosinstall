@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wukong/Hexapod-robot-with-Ros/install/setup.sh
