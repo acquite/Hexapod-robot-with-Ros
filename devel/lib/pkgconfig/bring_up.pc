@@ -1,0 +1,8 @@
+prefix=/home/wukong/Hexapod-robot-with-Ros/devel
+
+Name: bring_up
+Description: Description of bring_up
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

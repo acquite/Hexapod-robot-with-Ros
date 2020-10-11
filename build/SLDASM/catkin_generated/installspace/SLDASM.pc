@@ -1,0 +1,8 @@
+prefix=/home/wukong/Hexapod-robot-with-Ros/install
+
+Name: SLDASM
+Description: Description of SLDASM
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

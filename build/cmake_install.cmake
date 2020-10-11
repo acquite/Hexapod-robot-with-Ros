@@ -131,7 +131,10 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/wukong/Hexapod-robot-with-Ros/build/gtest/cmake_install.cmake")
+  include("/home/wukong/Hexapod-robot-with-Ros/build/bring_up/cmake_install.cmake")
   include("/home/wukong/Hexapod-robot-with-Ros/build/ASM3-1/cmake_install.cmake")
+  include("/home/wukong/Hexapod-robot-with-Ros/build/SLDASM/cmake_install.cmake")
+  include("/home/wukong/Hexapod-robot-with-Ros/build/vision/cmake_install.cmake")
 
 endif()
 

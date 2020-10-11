@@ -5,4 +5,7 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
+subdirs("bring_up")
 subdirs("ASM3-1")
+subdirs("SLDASM")
+subdirs("vision")
