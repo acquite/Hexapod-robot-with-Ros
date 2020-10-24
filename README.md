@@ -1,2 +1,2 @@
 # Hexapod-robot-with-Ros
-基于Ros的六足多地形跟踪机器人
+六足矿井探测救援机器人
