@@ -1,2 +1,0 @@
-ASM3-1:SLDASM:bring_up:vision
--DCATKIN_DEVEL_PREFIX=/home/wukong/Hexapod-robot-with-Ros/devel -DCMAKE_INSTALL_PREFIX=/home/wukong/Hexapod-robot-with-Ros/install -G Unix Makefiles
