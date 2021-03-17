@@ -67,4 +67,10 @@ while TempS[-1] not in ['N','n']:
     if TempS[-1] in ['0']:
         Curve.CurveLeg(0,-20,1000)
         TempS = input()
+    if TempS[-1] in ['11']:          # 抬高身体
+        straight_h.straightLeg_h(60,90,1000)
+        TempS = input()
+    if TempS[-1] in ['12']:          # 长条
+        shrinkage.shrinkageLeg(60,1000)
+        TempS = input()
 

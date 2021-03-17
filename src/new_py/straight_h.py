@@ -104,7 +104,7 @@ def straight_h_Leg1(L,A1,i,step,date):
     stepcut.StepCut_Leg1(x0,y0,z0,x1,y1,z1,i,step,date)
 
 
-def straightLeg_h(Length,dir,time):
+def straightLeg_h(Length,dir,time):  # 60 80 100
     step = 8
     for i in range(0,17):
         date = bytearray(b'\x55\x55\x3B\x03\x12')
