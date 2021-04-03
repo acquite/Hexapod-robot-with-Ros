@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/wukong/ext/ROS_robote_coding/devel/include/**",
+        "/home/wukong/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/wukong/catkin_ws/src/Base-src/TF_test/include/**",
+        "/home/wukong/Hexapod-robot-with-Ros/src/bring_up/include/**",
+        "/home/wukong/Hexapod-robot-with-Ros/src/bring_vision/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/creating_a_ros_library/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/custom_msgs/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/example_action_server/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/example_ros_class/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/example_ros_msg/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/example_ros_service/include/**",
+        "/home/wukong/catkin_ws/src/Advanced-src/mrobot_gazebo/include/**",
+        "/home/wukong/ext/ROS_robote_coding/src/my_minimal_nodes/include/**",
+        "/home/wukong/catkin_ws/src/Base-src/parameter_test/include/**",
+        "/home/wukong/catkin_ws/src/Advanced-src/robot_voice/include/**",
+        "/home/wukong/catkin_ws/src/Base-src/service/include/**",
+        "/home/wukong/catkin_ws/src/Base-src/topic_tertule/include/**",
+        "/home/wukong/Hexapod-robot-with-Ros/src/vision/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

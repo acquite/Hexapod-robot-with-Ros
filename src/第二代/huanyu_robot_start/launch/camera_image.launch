@@ -1,0 +1,16 @@
+<launch>
+
+  <node pkg="uvc_camera" type="uvc_camera_node" name="uvc_camera" output="screen">
+      <param name="device" type="string" value="/dev/video0" /> 
+      <param name="width" type="int" value="640" />
+      <param name="height" type="int" value="480" />
+      <param name="fps" type="int" value="30" />
+      <param name="frame_id" type="string" value="camera_rgb_optical_frame" />
+      <remap from="/image_raw" to="/camera/rgb/image" />
+      <remap from="/camera_info" to="/camera/rgb/camera_info" />
+    </node>
+
+</launch> 
+
+
+
