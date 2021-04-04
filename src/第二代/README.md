@@ -34,3 +34,7 @@
 
 
 
+```shell
+# 编译功能包 catkin_make -DCATKIN_WHITELIST_PACKAGES="hibot_follower"
+```
+
