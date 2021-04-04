@@ -60,7 +60,7 @@
   <arg name="camera_info_topic"       default="/camera/rgb/camera_info" />
   <arg name="depth_camera_info_topic" default="$(arg camera_info_topic)" /-->
 
- <!-- RGB-D related topics -->
+ <!-- RGB-D related topics Realsense -->
   <arg name="rgb_topic"               default="/camera/color/image_raw" />
   <arg name="depth_topic"             default="/camera/aligned_depth_to_color/image_raw" />
   <arg name="camera_info_topic"       default="/camera/color/camera_info" />
